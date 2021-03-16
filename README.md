@@ -1,2 +1,2 @@
 # Trial 
-This is an edited reamme file.
+This is an edited readme file.
